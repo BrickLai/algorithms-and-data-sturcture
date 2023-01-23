@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithms-and-data-sturctu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithms-and-data-sturcture_Lab03", "algorithms-and-data-sturcture_Lab03\algorithms-and-data-sturcture_Lab03.csproj", "{238477DA-350C-4E75-9FC9-94E6A28BEC4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-and-data-sturcture_Lab04", "algorithms-and-data-sturcture_Lab04\algorithms-and-data-sturcture_Lab04.csproj", "{733B20EA-6BA5-44AF-AB2B-57E694DE1637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithms-and-data-sturcture_Lab04", "algorithms-and-data-sturcture_Lab04\algorithms-and-data-sturcture_Lab04.csproj", "{733B20EA-6BA5-44AF-AB2B-57E694DE1637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-and-data-sturcture_Lab05", "algorithms-and-data-sturcture_Lab05\algorithms-and-data-sturcture_Lab05.csproj", "{BF12ED98-3658-46F1-8993-8E6FE81A9FB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{733B20EA-6BA5-44AF-AB2B-57E694DE1637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{733B20EA-6BA5-44AF-AB2B-57E694DE1637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{733B20EA-6BA5-44AF-AB2B-57E694DE1637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF12ED98-3658-46F1-8993-8E6FE81A9FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF12ED98-3658-46F1-8993-8E6FE81A9FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF12ED98-3658-46F1-8993-8E6FE81A9FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF12ED98-3658-46F1-8993-8E6FE81A9FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
